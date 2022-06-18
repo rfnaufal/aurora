@@ -9,7 +9,7 @@ Rika is a PSO Consultant at VMware, specializing in Cloud Management and Applica
 
 Certifications:
 
-* VMware Certified Professional 7 - Application Modernization
-* VMware Certified Professional 7 - Cloud Management and Automation 
-* VMware Certified Professional 7 - Network Virtualization
+* VMware Certified Professional - Application Modernization 2021
+* VMware Certified Professional - Cloud Management and Automation 2020
+* VMware Certified Professional - Network Virtualization 2021
 * VMware Certified Professional 7 - Data Center Virtualization (soon - renew certification)
