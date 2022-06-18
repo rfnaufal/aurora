@@ -1,23 +1,4 @@
-# Build settings
-theme: jekyll-theme-cayman
-
 title: Aurora Blog
-description: > # this means to ignore newlines until "show_excerpts:"
-  This is personal blog focused on multi-cloud technologies and Infrastructure as Code (IaC). 
-  The notes and opinion expressed on this blog are on my own.
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    twitter: rfnaufal
-    github:  rfnaufal
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+description: Cloud and Application Modernization Blog
+google_analytics:
+theme: jekyll-theme-cayman
