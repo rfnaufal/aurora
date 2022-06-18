@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Tanzu
-permalink: /tanzu/
+permalink: /Tanzu/
 ---
