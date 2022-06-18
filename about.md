@@ -2,7 +2,7 @@
 theme: jekyll-theme-cayman
 layout: page
 title: About
-permalink: /about/
+permalink: /aurora/about/
 ---
 
 Rika is a PSO Consultant at VMware, specializing in Cloud Management and Application Modernization. </br>She has experience in working with companies across different industries, including finance and public sector. 
