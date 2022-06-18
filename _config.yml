@@ -1,10 +1,7 @@
 # Build settings
 theme: jekyll-theme-cayman
 
-title: Aurora IT Blog
-author:
-  name: GitHub User
-  email: your-email@gmail.com
+title: Aurora Blog
 description: > # this means to ignore newlines until "show_excerpts:"
   This is personal blog focused on multi-cloud technologies and Infrastructure as Code (IaC). 
   The notes and opinion expressed on this blog are on my own.
