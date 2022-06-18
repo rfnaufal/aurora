@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 ---
-title: Aurora
+site.title: Aurora
 description: [This is personal blog focused on multi-cloud technologies and Infrastructure as Code (IaC). </br> The notes and opinion expressed on this blog are on my own.]
 ---
