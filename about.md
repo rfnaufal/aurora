@@ -12,4 +12,4 @@ Certifications:
 * VMware Certified Professional 7 - Application Modernization
 * VMware Certified Professional 7 - Cloud Management and Automation 
 * VMware Certified Professional 7 - Network Virtualization
-* * VMware Certified Professional 7 - Data Center Virtualization (soon - renew certification)
+* VMware Certified Professional 7 - Data Center Virtualization (soon - renew certification)
