@@ -7,6 +7,7 @@ author:
   email: your-email@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   This is personal blog focused on multi-cloud technologies and Infrastructure as Code (IaC). 
+  
   The notes and opinion expressed on this blog are on my own.
 show_excerpts: true # set to true to show excerpts on the homepage
 
